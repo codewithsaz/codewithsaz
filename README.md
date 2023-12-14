@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **a full stack project - Marketplace for used Cars**
 
-- 🌱 I’m currently learning **Next.js, Redis, ElasticSearch**
+- 🌱 I’m currently learning **Next.js, Redis, ElasticSearch & Cassandra**
 
 - 👨‍💻 All of my projects are available at [https://portfolio.codewithsaz.online/](https://portfolio.codewithsaz.online/)
 
