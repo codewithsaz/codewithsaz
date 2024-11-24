@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next.js, Redis, ElasticSearch & Cassandra**
 
-- 👨‍💻 All of my projects are available at [https://portfolio.codewithsaz.online/](https://portfolio.codewithsaz.online/)
+- 👨‍💻 All of my projects are available at [https://www.sazcherukat.com/](https://www.sazcherukat.com/)
 
 - 💬 Ask me about **html, css, js, ts, scss, react, node, express, sql and nosql**
 
